@@ -10,9 +10,9 @@ With a strong foundation in machine learning, data science, and generative AI, I
 ### 📬 Connect with Me
 
 <div style="display: flex; justify-content: space-between; width: 100%; padding: 10px;">
-  <span>📧 Gmail</span>
-  <span style="margin: 0 auto;">🌐 GitHub</span>
-  <span>🔗 LinkedIn</span>
+  <span><a href="mailto:ruchidattab@gmail.com" target="_blank">📧 Gmail</a></span>
+  <span style="margin: 0 auto;"><a href="https://github.com/imruchi" target="_blank">🌐 GitHub</a></span>
+  <span><a href="https://www.linkedin.com/in/b-ruchi/" target="_blank">🔗 LinkedIn</a></span>
 </div>
 
 ---
