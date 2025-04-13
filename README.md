@@ -36,7 +36,7 @@ Machine Learning • Data Science • Artificial Intelligence • Deep Learning 
 
 ### 🏆 Experience  
 
-#### 📌 **TCS (GenAI and Data Science Intern)**  
+#### 📌 **TATA Consultancy Services (GenAI and Data Science Intern)**  
 - Spearheaded unstructured data pipeline development, optimizing workflows by **40%**.  
 - Integrated **NLP** with **AutoML** for adaptive model tuning.  
 
